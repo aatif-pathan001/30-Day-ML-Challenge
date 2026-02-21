@@ -7,9 +7,9 @@ Transform from ML enthusiast to interview-ready ML Engineer in 30 days through f
 
 ### Week 1: Deep Learning Fundamentals
 - [x] **Day 1**: RNN & LSTM Theory + Implementation
-- [ ] **Day 2**: LSTM Projects + Optimization
-- [ ] **Day 3**: Model Optimization Techniques
-- [ ] **Day 4**: Regularization Deep Dive
+- [x] **Day 2**: LSTM Projects + Optimization
+- [x] **Day 3**: Model Optimization Techniques
+- [x] **Day 4**: Regularization Deep Dive
 - [ ] **Day 5**: Transfer Learning Part 1
 - [ ] **Day 6**: Transfer Learning Part 2
 - [ ] **Day 7**: Week 1 Consolidation + Blog Post
@@ -22,20 +22,6 @@ Transform from ML enthusiast to interview-ready ML Engineer in 30 days through f
 
 ### Week 4: Capstone Projects
 [Checklist continues]
-
-## Learning Metrics
-
-**Daily Goals**:
-- 2-3 hours theory/practice
-- 3-4 hours project building
-- 30 min problem solving
-- 30 min documentation
-
-**Weekly Goals**:
-- 2-3 new repositories
-- 1 blog post
-- 5-10 LeetCode problems
-- 1 deployed project
 
 ## Resources Tracker
 
